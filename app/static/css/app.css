@@ -6,3 +6,19 @@ body {
   width: 600px;
   margin: 0 auto;
 }
+
+#result {
+	list-style-type: none;
+	display: block;
+	background-color: #9bf2a6;
+}
+
+#resultimg{
+	display: inline-block;
+	padding:5px;
+}
+
+li {
+	font-size: 14px;
+	padding: 5px;
+}
